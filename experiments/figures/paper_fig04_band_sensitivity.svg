@@ -1,0 +1,39 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490" y="30" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="20">拟合波段敏感性</text>
+<line x1="98" y1="400" x2="944" y2="400" stroke="#333"/>
+<line x1="98" y1="56" x2="98" y2="400" stroke="#333"/>
+<text x="24" y="260.0" transform="rotate(-90 24,260.0)" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="13">厚度 d (μm)</text>
+<rect x="130.8" y="100.9" width="58.2" height="299.1" fill="#cfe1f2"><title>RMSE 0.00723</title></rect>
+<circle cx="159.9" cy="301.7" r="5" fill="#d62728"><title>full_measured: 7.380 um</title></circle>
+<text x="159.9" y="416" transform="rotate(35 159.9,416)" text-anchor="start" font-family="Arial" font-size="11">full_measured</text>
+<rect x="234.0" y="118.2" width="58.2" height="281.8" fill="#cfe1f2"><title>RMSE 0.00681</title></rect>
+<circle cx="263.1" cy="203.4" r="5" fill="#d62728"><title>include_reststrahlen_tail: 7.420 um</title></circle>
+<text x="263.1" y="416" transform="rotate(35 263.1,416)" text-anchor="start" font-family="Arial" font-size="11">include_reststrahlen_tail</text>
+<rect x="337.2" y="287.7" width="58.2" height="112.3" fill="#cfe1f2"><title>RMSE 0.00271</title></rect>
+<circle cx="366.2" cy="203.4" r="5" fill="#d62728"><title>classic_high: 7.420 um</title></circle>
+<text x="366.2" y="416" transform="rotate(35 366.2,416)" text-anchor="start" font-family="Arial" font-size="11">classic_high</text>
+<rect x="440.3" y="314.0" width="58.2" height="86.0" fill="#cfe1f2"><title>RMSE 0.00208</title></rect>
+<circle cx="469.4" cy="154.3" r="5" fill="#d62728"><title>moderate_high: 7.440 um</title></circle>
+<text x="469.4" y="416" transform="rotate(35 469.4,416)" text-anchor="start" font-family="Arial" font-size="11">moderate_high</text>
+<rect x="543.5" y="326.3" width="58.2" height="73.7" fill="#cfe1f2"><title>RMSE 0.00178</title></rect>
+<circle cx="572.6" cy="154.3" r="5" fill="#d62728"><title>current_baseline: 7.440 um</title></circle>
+<text x="572.6" y="416" transform="rotate(35 572.6,416)" text-anchor="start" font-family="Arial" font-size="11">current_baseline</text>
+<rect x="646.7" y="348.0" width="58.2" height="52.0" fill="#cfe1f2"><title>RMSE 0.00126</title></rect>
+<circle cx="675.8" cy="154.3" r="5" fill="#d62728"><title>higher_only: 7.440 um</title></circle>
+<text x="675.8" y="416" transform="rotate(35 675.8,416)" text-anchor="start" font-family="Arial" font-size="11">higher_only</text>
+<rect x="749.8" y="350.1" width="58.2" height="49.9" fill="#cfe1f2"><title>RMSE 0.00121</title></rect>
+<circle cx="778.9" cy="154.3" r="5" fill="#d62728"><title>high_core: 7.440 um</title></circle>
+<text x="778.9" y="416" transform="rotate(35 778.9,416)" text-anchor="start" font-family="Arial" font-size="11">high_core</text>
+<rect x="853.0" y="327.3" width="58.2" height="72.7" fill="#cfe1f2"><title>RMSE 0.00176</title></rect>
+<circle cx="882.1" cy="154.3" r="5" fill="#d62728"><title>trim_both_sides: 7.440 um</title></circle>
+<text x="882.1" y="416" transform="rotate(35 882.1,416)" text-anchor="start" font-family="Arial" font-size="11">trim_both_sides</text>
+<line x1="98" y1="375.4" x2="944" y2="375.4" stroke="#eeeeee"/>
+<text x="90" y="379.4" text-anchor="end" font-family="Arial" font-size="11">7.35</text>
+<line x1="98" y1="252.6" x2="944" y2="252.6" stroke="#eeeeee"/>
+<text x="90" y="256.6" text-anchor="end" font-family="Arial" font-size="11">7.40</text>
+<line x1="98" y1="129.7" x2="944" y2="129.7" stroke="#eeeeee"/>
+<text x="90" y="133.7" text-anchor="end" font-family="Arial" font-size="11">7.45</text>
+<text x="720" y="68" font-family="Arial, Microsoft YaHei" font-size="12" fill="#d62728">红点：最佳厚度 d</text>
+<text x="720" y="88" font-family="Arial, Microsoft YaHei" font-size="12" fill="#4c78a8">蓝柱：相对 RMSE 尺度</text>
+</svg>

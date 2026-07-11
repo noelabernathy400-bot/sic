@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+*.aux
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.xdv
+*.synctex.gz
+.obsidian/
+.claude/
+.claudian/

@@ -1,0 +1,75 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="620" viewBox="0 0 1040 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="520.0" y="30" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="20">不同波数窗口下的滑窗 FFT 厚度初值</text>
+<text x="78" y="46.0" font-family="Arial, Microsoft YaHei" font-size="15">SiC 10度</text>
+<line x1="78" y1="283.0" x2="1006" y2="283.0" stroke="#333"/>
+<line x1="78" y1="58.0" x2="78" y2="283.0" stroke="#333"/>
+<polyline fill="none" stroke="#4c78a8" stroke-width="2" points="78.00,136.06 263.60,181.98 449.20,204.94 634.80,204.94 820.40,181.98 1006.00,181.98"><title>去均值</title></polyline>
+<circle cx="78.0" cy="136.1" r="3.3" fill="#4c78a8"><title>去均值: 2100 cm^-1, 7.8817 μm</title></circle>
+<circle cx="263.6" cy="182.0" r="3.3" fill="#4c78a8"><title>去均值: 2350 cm^-1, 7.6465 μm</title></circle>
+<circle cx="449.2" cy="204.9" r="3.3" fill="#4c78a8"><title>去均值: 2600 cm^-1, 7.5288 μm</title></circle>
+<circle cx="634.8" cy="204.9" r="3.3" fill="#4c78a8"><title>去均值: 2850 cm^-1, 7.5288 μm</title></circle>
+<circle cx="820.4" cy="182.0" r="3.3" fill="#4c78a8"><title>去均值: 3100 cm^-1, 7.6465 μm</title></circle>
+<circle cx="1006.0" cy="182.0" r="3.3" fill="#4c78a8"><title>去均值: 3350 cm^-1, 7.6465 μm</title></circle>
+<polyline fill="none" stroke="#f58518" stroke-width="2" points="78.00,136.06 263.60,181.98 449.20,204.94 634.80,204.94 820.40,181.98 1006.00,204.94"><title>移动平均去趋势 401</title></polyline>
+<circle cx="78.0" cy="136.1" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2100 cm^-1, 7.8817 μm</title></circle>
+<circle cx="263.6" cy="182.0" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2350 cm^-1, 7.6465 μm</title></circle>
+<circle cx="449.2" cy="204.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2600 cm^-1, 7.5288 μm</title></circle>
+<circle cx="634.8" cy="204.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2850 cm^-1, 7.5288 μm</title></circle>
+<circle cx="820.4" cy="182.0" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 3100 cm^-1, 7.6465 μm</title></circle>
+<circle cx="1006.0" cy="204.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 3350 cm^-1, 7.5288 μm</title></circle>
+<polyline fill="none" stroke="#54a24b" stroke-width="2" points="78.00,136.06 263.60,181.98 449.20,204.94 634.80,204.94 820.40,181.98 1006.00,181.98"><title>滚动中位数基线</title></polyline>
+<circle cx="78.0" cy="136.1" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2100 cm^-1, 7.8817 μm</title></circle>
+<circle cx="263.6" cy="182.0" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2350 cm^-1, 7.6465 μm</title></circle>
+<circle cx="449.2" cy="204.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2600 cm^-1, 7.5288 μm</title></circle>
+<circle cx="634.8" cy="204.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2850 cm^-1, 7.5288 μm</title></circle>
+<circle cx="820.4" cy="182.0" r="3.3" fill="#54a24b"><title>滚动中位数基线: 3100 cm^-1, 7.6465 μm</title></circle>
+<circle cx="1006.0" cy="182.0" r="3.3" fill="#54a24b"><title>滚动中位数基线: 3350 cm^-1, 7.6465 μm</title></circle>
+<text x="70" y="287.0" text-anchor="end" font-family="Arial" font-size="11">7.13</text>
+<text x="70" y="230.8" text-anchor="end" font-family="Arial" font-size="11">7.42</text>
+<text x="70" y="174.5" text-anchor="end" font-family="Arial" font-size="11">7.71</text>
+<text x="70" y="118.2" text-anchor="end" font-family="Arial" font-size="11">7.99</text>
+<text x="70" y="62.0" text-anchor="end" font-family="Arial" font-size="11">8.28</text>
+<text x="78" y="311.0" font-family="Arial, Microsoft YaHei" font-size="15">SiC 15度</text>
+<line x1="78" y1="548.0" x2="1006" y2="548.0" stroke="#333"/>
+<line x1="78" y1="323.0" x2="78" y2="548.0" stroke="#333"/>
+<polyline fill="none" stroke="#4c78a8" stroke-width="2" points="78.00,419.86 263.60,465.90 449.20,465.90 634.80,465.90 820.40,465.90 1006.00,465.90"><title>去均值</title></polyline>
+<circle cx="78.0" cy="419.9" r="3.3" fill="#4c78a8"><title>去均值: 2100 cm^-1, 7.7854 μm</title></circle>
+<circle cx="263.6" cy="465.9" r="3.3" fill="#4c78a8"><title>去均值: 2350 cm^-1, 7.5495 μm</title></circle>
+<circle cx="449.2" cy="465.9" r="3.3" fill="#4c78a8"><title>去均值: 2600 cm^-1, 7.5495 μm</title></circle>
+<circle cx="634.8" cy="465.9" r="3.3" fill="#4c78a8"><title>去均值: 2850 cm^-1, 7.5495 μm</title></circle>
+<circle cx="820.4" cy="465.9" r="3.3" fill="#4c78a8"><title>去均值: 3100 cm^-1, 7.5495 μm</title></circle>
+<circle cx="1006.0" cy="465.9" r="3.3" fill="#4c78a8"><title>去均值: 3350 cm^-1, 7.5495 μm</title></circle>
+<polyline fill="none" stroke="#f58518" stroke-width="2" points="78.00,419.86 263.60,442.88 449.20,465.90 634.80,465.90 820.40,465.90 1006.00,442.88"><title>移动平均去趋势 401</title></polyline>
+<circle cx="78.0" cy="419.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2100 cm^-1, 7.7854 μm</title></circle>
+<circle cx="263.6" cy="442.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2350 cm^-1, 7.6675 μm</title></circle>
+<circle cx="449.2" cy="465.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2600 cm^-1, 7.5495 μm</title></circle>
+<circle cx="634.8" cy="465.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 2850 cm^-1, 7.5495 μm</title></circle>
+<circle cx="820.4" cy="465.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 3100 cm^-1, 7.5495 μm</title></circle>
+<circle cx="1006.0" cy="442.9" r="3.3" fill="#f58518"><title>移动平均去趋势 401: 3350 cm^-1, 7.6675 μm</title></circle>
+<polyline fill="none" stroke="#54a24b" stroke-width="2" points="78.00,442.88 263.60,465.90 449.20,465.90 634.80,465.90 820.40,465.90 1006.00,465.90"><title>滚动中位数基线</title></polyline>
+<circle cx="78.0" cy="442.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2100 cm^-1, 7.6675 μm</title></circle>
+<circle cx="263.6" cy="465.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2350 cm^-1, 7.5495 μm</title></circle>
+<circle cx="449.2" cy="465.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2600 cm^-1, 7.5495 μm</title></circle>
+<circle cx="634.8" cy="465.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 2850 cm^-1, 7.5495 μm</title></circle>
+<circle cx="820.4" cy="465.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 3100 cm^-1, 7.5495 μm</title></circle>
+<circle cx="1006.0" cy="465.9" r="3.3" fill="#54a24b"><title>滚动中位数基线: 3350 cm^-1, 7.5495 μm</title></circle>
+<text x="70" y="552.0" text-anchor="end" font-family="Arial" font-size="11">7.13</text>
+<text x="70" y="495.8" text-anchor="end" font-family="Arial" font-size="11">7.42</text>
+<text x="70" y="439.5" text-anchor="end" font-family="Arial" font-size="11">7.71</text>
+<text x="70" y="383.2" text-anchor="end" font-family="Arial" font-size="11">7.99</text>
+<text x="70" y="327.0" text-anchor="end" font-family="Arial" font-size="11">8.28</text>
+<text x="78.0" y="596" text-anchor="middle" font-family="Arial" font-size="11">2100</text>
+<text x="263.6" y="596" text-anchor="middle" font-family="Arial" font-size="11">2350</text>
+<text x="449.2" y="596" text-anchor="middle" font-family="Arial" font-size="11">2600</text>
+<text x="634.8" y="596" text-anchor="middle" font-family="Arial" font-size="11">2850</text>
+<text x="820.4" y="596" text-anchor="middle" font-family="Arial" font-size="11">3100</text>
+<text x="1006.0" y="596" text-anchor="middle" font-family="Arial" font-size="11">3350</text>
+<text x="520.0" y="613" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="13">窗口中心波数 (cm^-1)</text>
+<line x1="78" y1="50" x2="104" y2="50" stroke="#4c78a8" stroke-width="3"/>
+<text x="110" y="54" font-family="Arial, Microsoft YaHei" font-size="12">去均值</text>
+<line x1="268" y1="50" x2="294" y2="50" stroke="#f58518" stroke-width="3"/>
+<text x="300" y="54" font-family="Arial, Microsoft YaHei" font-size="12">移动平均去趋势 401</text>
+<line x1="458" y1="50" x2="484" y2="50" stroke="#54a24b" stroke-width="3"/>
+<text x="490" y="54" font-family="Arial, Microsoft YaHei" font-size="12">滚动中位数基线</text>
+</svg>

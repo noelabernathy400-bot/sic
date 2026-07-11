@@ -1,0 +1,35 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="360" viewBox="0 0 1180 360">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#555"/></marker></defs>
+<text x="590.0" y="38" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="22">SiC 外延层厚度反演证据链</text>
+<text x="590.0" y="68" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="13" fill="#555">先验证数据事实，再进入物理解释；每一步都有可复现诊断输出。</text>
+<rect x="44.0" y="132" width="138" height="82" rx="8" fill="#e8f1fb" stroke="#445" stroke-width="1.2"/>
+<text x="113.0" y="164" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">原始谱线</text>
+<text x="113.0" y="188" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="12" fill="#444">双角度数据</text>
+<line x1="188.0" y1="173.0" x2="193.0" y2="173.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="203.0" y="132" width="138" height="82" rx="8" fill="#eef6e9" stroke="#445" stroke-width="1.2"/>
+<text x="272.0" y="164" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">预处理</text>
+<text x="272.0" y="188" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="12" fill="#444">稳定条纹周期</text>
+<line x1="347.0" y1="173.0" x2="352.0" y2="173.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="362.0" y="132" width="138" height="82" rx="8" fill="#fff4df" stroke="#445" stroke-width="1.2"/>
+<text x="431.0" y="164" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">FFT/FOD</text>
+<text x="431.0" y="188" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="12" fill="#444">厚度尺度初值</text>
+<line x1="506.0" y1="173.0" x2="511.0" y2="173.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="521.0" y="132" width="138" height="82" rx="8" fill="#f3ecfb" stroke="#445" stroke-width="1.2"/>
+<text x="590.0" y="164" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">Dong/TMM</text>
+<text x="590.0" y="188" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="12" fill="#444">物理正演模型</text>
+<line x1="665.0" y1="173.0" x2="670.0" y2="173.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="680.0" y="132" width="138" height="82" rx="8" fill="#fdeceb" stroke="#445" stroke-width="1.2"/>
+<text x="749.0" y="164" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">诊断</text>
+<text x="749.0" y="188" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="12" fill="#444">残差与敏感性</text>
+<line x1="824.0" y1="173.0" x2="829.0" y2="173.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="839.0" y="132" width="138" height="82" rx="8" fill="#eaf7f6" stroke="#445" stroke-width="1.2"/>
+<text x="908.0" y="164" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">稳健性</text>
+<text x="908.0" y="188" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="12" fill="#444">波段权重</text>
+<line x1="983.0" y1="173.0" x2="988.0" y2="173.0" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="998.0" y="132" width="138" height="82" rx="8" fill="#eef0ff" stroke="#445" stroke-width="1.2"/>
+<text x="1067.0" y="164" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="15" font-weight="600">候选结论</text>
+<text x="1067.0" y="188" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="12" fill="#444">7.4-7.6 μm</text>
+<text x="590.0" y="285" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="14">当前结论：候选区间，不是最终认证厚度</text>
+<text x="590.0" y="312" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="16" font-weight="600">d ≈ 7.4-7.6 μm</text>
+</svg>

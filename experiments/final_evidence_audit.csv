@@ -1,0 +1,11 @@
+﻿evidence_id,category,method,estimate_um,lower_um,upper_um,evidence_role,confidence_level,include_in_final_interval,source_files,key_limitation
+E01,模型路线,常数折射率 FOD,7.191,7.086,7.296,基线模型，用于暴露简化折射率口径的不足,中低,否,model_route_comparison.csv,常数折射率假设过强；10度和15度不一致；只使用极值位置
+E02,模型路线,Dong2012 表2介电函数 TMM 双角度分算,7.430,7.400,7.460,物理正演模型起点，显示双角度低谷已接近 7.4--7.5 微米,中高,是,model_route_comparison.csv,参数来自 Dong2012 样品，不是本题样品；这里只作为物理模型起点。
+E03,模型路线,Dong/TMM $\nu_p$ 敏感性,7.502,7.440,7.580,检查载流子相关介电参数改变时厚度低谷是否稳定,高,是,model_route_comparison.csv,只单独缩放 $\nu_p$，尚未与 $\gamma$、声子阻尼和波段联合优化
+E04,模型路线,Dong/TMM $\gamma$ 敏感性,7.447,7.440,7.460,检查 Drude 阻尼改变时厚度低谷是否稳定,中高,是,model_route_comparison.csv,只单独改变 $\gamma$，尚未和 $\nu_p$、声子阻尼、波段联合优化
+E05,模型路线,"Dong/TMM $\Gamma_L,\Gamma_T$ 敏感性：lt_shared_scale",7.438,7.400,7.460,检查声子阻尼改变时厚度低谷是否稳定,中高,是,model_route_comparison.csv,仍未和 $\nu_p$、$\gamma$、波段做联合优化
+E06,模型路线,Dong/TMM 波段敏感性：不含 Reststrahlen,7.437,7.420,7.440,检查剔除强吸收区后厚度低谷是否仍存在,中高,是,model_route_comparison.csv,仍未和材料参数做联合优化；包含 Reststrahlen 区时误差明显增大
+E07,物理约束优化,受 nu_p 物理边界约束的 Dong/TMM 局部细化,7.465,7.455,7.465,最终代表点；联合 RMSE=0.00171152,高,是,dong2012_tmm_constrained_refinement_chosen.csv; dong2012_tmm_constrained_refinement_final_angle_metrics.csv,外延层 nu_p 缩放触及上界，材料参数不能写成内部最优。
+E08,局部不确定性,固定参数残差块 bootstrap,7.455,7.445,7.465,评估固定材料参数和残差重采样假设下的数据扰动,中高,是,dong2012_tmm_uncertainty_bootstrap_summary.csv,不是完整材料参数不确定性传播。
+E09,波段权重稳健性,固定参数波段权重 TMM 厚度剖面,7.465,7.465,7.485,检查厚度是否由个别异常波段主导,中高,是,band_weighted_tmm_profile_summary.csv,只改变波段权重，未重新联合优化材料参数。
+E10,残差审计,双角度残差诊断,7.465,,,指出最终模型仍有结构性残差，限制过强结论,风险提示,否,residual_diagnostics_angle_metrics.csv,"SiC_10deg: RMSE=0.001311, lag1=0.9726; SiC_15deg: RMSE=0.002112, lag1=0.9834"

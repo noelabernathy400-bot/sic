@@ -1,0 +1,5 @@
+﻿dataset,material,angle_deg,rows,wavenumber_min_cm,wavenumber_max_cm,reflectance_min_pct,reflectance_max_pct,reflectance_mean_pct,peaks_high_region,troughs_high_region
+SiC_10deg,SiC,10.0,7469,399.6747,4000.122,0.0,95.38499492,22.266821665287186,11,11
+SiC_15deg,SiC,15.0,7469,399.6747,4000.122,0.0,102.7393552,23.59146189164426,10,10
+Si_10deg,Si,10.0,7469,399.6747,4000.122,0.0,79.8019744,32.09966928664078,8,7
+Si_15deg,Si,15.0,7469,399.6747,4000.122,0.0,91.48944351,35.351663670734375,8,7

@@ -1,0 +1,13 @@
+﻿role,layer,scenario,nu_p_scale,nu_p_perp_cm_inv,carrier_concentration_cm3,relative_to_baseline_n,reason
+epilayer,外延层,Dong2012 other method (Hg-probe C-V),0.7334,53.525,8.800e+16,0.538,Dong2012 表 2 的外部方法对照值；用于检查红外拟合参数量级。
+substrate,衬底,Dong2012 other method (Hall measurement),1.0713,403.459,5.000e+18,1.148,Dong2012 表 2 的外部方法对照值；用于检查红外拟合参数量级。
+epilayer,外延层,Dong2012 Table 2 baseline,1.0000,72.980,1.636e+17,1.000,Dong2012 表 2 的外延层红外拟合参数，作为当前代码基准。
+epilayer,外延层,nu_p sensitivity RMSE-best,1.5000,109.470,3.681e+17,2.250,当前本题数据的 $\nu_p$ 敏感性扫描中，联合 RMSE 最小的外延层缩放。
+epilayer,外延层,local refinement final,1.7500,127.715,5.010e+17,3.062,无 scipy 局部细化坐标搜索的最终外延层 $\nu_p$ 缩放。
+epilayer,外延层,provisional constrained lower,0.7500,54.735,9.202e+16,0.562,候选受约束优化下界；覆盖 Dong2012 其他方法量级，同时避免过低导致信号弱耦合。
+epilayer,外延层,provisional constrained upper,1.7500,127.715,5.010e+17,3.062,候选受约束优化上界；暂取到当前局部细化边界，不继续无依据放宽。
+substrate,衬底,Dong2012 Table 2 baseline,1.0000,376.600,4.356e+18,1.000,Dong2012 表 2 的衬底红外拟合参数，作为当前代码基准。
+substrate,衬底,nu_p sensitivity RMSE-best,1.0000,376.600,4.356e+18,1.000,当前本题数据的 $\nu_p$ 敏感性扫描中，联合 RMSE 最小的衬底缩放。
+substrate,衬底,local refinement final,1.0000,376.600,4.356e+18,1.000,无 scipy 局部细化坐标搜索的最终衬底 $\nu_p$ 缩放。
+substrate,衬底,provisional constrained lower,0.7500,282.450,2.450e+18,0.562,候选受约束优化下界；允许衬底载流子浓度低于 Dong2012 基准但仍保持重掺杂量级。
+substrate,衬底,provisional constrained upper,1.2500,470.750,6.807e+18,1.562,候选受约束优化上界；覆盖 Hall 结果相对红外结果的偏高量级。

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+  xmlns:z="http://www.zotero.org/namespaces/export#">
+  <z:Collection rdf:about="#collection_sic_clean">
+    <dc:title>SiC Epilayer Thickness Study Clean Metadata</dc:title>
+    <dcterms:hasPart rdf:resource="#li2010"/>
+    <dcterms:hasPart rdf:resource="#dong2012"/>
+    <dcterms:hasPart rdf:resource="#oishi2006"/>
+    <dcterms:hasPart rdf:resource="#sun2023"/>
+    <dcterms:hasPart rdf:resource="#dutta2022"/>
+    <dcterms:hasPart rdf:resource="#chahal2024"/>
+    <dcterms:hasPart rdf:resource="#larruquert2011"/>
+    <dcterms:hasPart rdf:resource="#polyanskiy2024"/>
+    <dcterms:hasPart rdf:resource="#troparevsky2010"/>
+    <dcterms:hasPart rdf:resource="#randall1967"/>
+    <dcterms:hasPart rdf:resource="#pitman2008"/>
+    <dcterms:hasPart rdf:resource="#macmillan1992"/>
+    <dcterms:hasPart rdf:resource="#fan2021"/>
+    <dcterms:hasPart rdf:resource="#lininger2021"/>
+    <dcterms:hasPart rdf:resource="#tian2020"/>
+    <dcterms:hasPart rdf:resource="#tian2022"/>
+    <dcterms:hasPart rdf:resource="#marquez2021"/>
+    <dcterms:hasPart rdf:resource="#minkov2021"/>
+    <dcterms:hasPart rdf:resource="#jena2021"/>
+    <dcterms:hasPart rdf:resource="#jan2021"/>
+    <dcterms:hasPart rdf:resource="#cumcm2025_showcase"/>
+    <dcterms:hasPart rdf:resource="#cumcm2025_b060"/>
+    <dcterms:hasPart rdf:resource="#cumcm2025_b157"/>
+    <dcterms:hasPart rdf:resource="#cumcm2025_commentary"/>
+    <dcterms:hasPart rdf:resource="#tsinghua2026_share"/>
+    <dcterms:hasPart rdf:resource="#byrnes_tmm"/>
+  </z:Collection>
+
+  <rdf:Description rdf:about="#li2010">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Methods for Thickness Determination of SiC Homoepilayers by Using Infrared Reflectance Spectroscopy</dc:title>
+    <dc:creator>Li Zhi-Yun</dc:creator>
+    <dc:creator>Sun Ji-Wei</dc:creator>
+    <dc:creator>Zhang Yu-Ming</dc:creator>
+    <dc:creator>Zhang Yi-Men</dc:creator>
+    <dc:creator>Tang Xiao-Yan</dc:creator>
+    <dc:source>Chinese Physics Letters</dc:source>
+    <dc:date>2010-6</dc:date>
+    <dc:identifier>DOI 10.1088/0256-307X/27/6/068103</dc:identifier>
+    <prism:volume>27</prism:volume>
+    <prism:number>6</prism:number>
+    <prism:pageRange>068103</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Core read: FOD and infrared reflectance thickness determination.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#dong2012">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Characterization of 4H—SiC substrates and epilayers by Fourier transform infrared reflectance spectroscopy</dc:title>
+    <dc:creator>Lin Dong</dc:creator>
+    <dc:creator>Guo-Sheng Sun</dc:creator>
+    <dc:creator>Liu Zheng</dc:creator>
+    <dc:creator>Xing-Fang Liu</dc:creator>
+    <dc:creator>Feng Zhang</dc:creator>
+    <dc:creator>Guo-Guo Yan</dc:creator>
+    <dc:creator>Wan-Shun Zhao</dc:creator>
+    <dc:creator>Lei Wang</dc:creator>
+    <dc:creator>Xi-Guang Li</dc:creator>
+    <dc:creator>Zhan-Guo Wang</dc:creator>
+    <dc:source>Chinese Physics B</dc:source>
+    <dc:date>2012-4</dc:date>
+    <dc:identifier>DOI 10.1088/1674-1056/21/4/047802</dc:identifier>
+    <prism:volume>21</prism:volume>
+    <prism:number>4</prism:number>
+    <prism:pageRange>047802</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Core read: 4H-SiC dielectric function and TMM model source.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#oishi2006">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Simultaneous Determination of Carrier Concentration, Mobility, and Thickness of SiC Homoepilayers by Infrared Reflectance Spectroscopy</dc:title>
+    <dc:creator>Shingo Oishi</dc:creator>
+    <dc:creator>Yasuto Hijikata</dc:creator>
+    <dc:creator>Hiroyuki Yaguchi</dc:creator>
+    <dc:creator>Sadafumi Yoshida</dc:creator>
+    <dc:source>Japanese Journal of Applied Physics</dc:source>
+    <dc:date>2006-11-17</dc:date>
+    <dc:identifier>DOI 10.1143/JJAP.45.L1226</dc:identifier>
+    <prism:volume>45</prism:volume>
+    <prism:number>12L</prism:number>
+    <prism:pageRange>L1226</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>To read: joint inversion of thickness, carrier concentration and mobility.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#sun2023">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>An improved method for measuring epi-wafer thickness based on the infrared interference principle: Addressing interference quality and multiple interferences in double-layer structures</dc:title>
+    <dc:creator>Jiaxing Sun</dc:creator>
+    <dc:creator>Zhisong Li</dc:creator>
+    <dc:creator>Haojie Zhang</dc:creator>
+    <dc:creator>Jinlong Song</dc:creator>
+    <dc:creator>Tianbao Zhai</dc:creator>
+    <dc:source>Results in Physics</dc:source>
+    <dc:date>2023-11</dc:date>
+    <dc:identifier>DOI 10.1016/j.rinp.2023.107146</dc:identifier>
+    <prism:volume>54</prism:volume>
+    <prism:pageRange>107146</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>To read: frequency-domain thickness method, VMD-LSP and multiple interference.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#dutta2022">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Extracting film thickness and optical constants from spectrophotometric data by evolutionary optimization</dc:title>
+    <dc:creator>Rajdeep Dutta</dc:creator>
+    <dc:creator>Siyu Isaac Parker Tian</dc:creator>
+    <dc:creator>Zhe Liu</dc:creator>
+    <dc:creator>Madhavkrishnan Lakshminarayanan</dc:creator>
+    <dc:creator>Selvaraj Venkataraj</dc:creator>
+    <dc:creator>Yuanhang Cheng</dc:creator>
+    <dc:creator>Daniil Bash</dc:creator>
+    <dc:creator>Vijila Chellappan</dc:creator>
+    <dc:creator>Tonio Buonassisi</dc:creator>
+    <dc:creator>Senthilnath Jayavelu</dc:creator>
+    <dc:source>PLOS ONE</dc:source>
+    <dc:date>2022-11-30</dc:date>
+    <dc:identifier>DOI 10.1371/journal.pone.0276555</dc:identifier>
+    <prism:volume>17</prism:volume>
+    <prism:number>11</prism:number>
+    <prism:pageRange>e0276555</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>To read: evolutionary optimization for thickness and optical constants.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#chahal2024">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Temperature dependence of the anisotropy of the infrared dielectric properties and phonon-plasmon coupling in n-doped 4H-SiC</dc:title>
+    <dc:creator>J. Chahal</dc:creator>
+    <dc:creator>N. Rahbany</dc:creator>
+    <dc:creator>Y. El-Helou</dc:creator>
+    <dc:creator>K.T. Wu</dc:creator>
+    <dc:creator>A. Bruyant</dc:creator>
+    <dc:creator>C. Zgheib</dc:creator>
+    <dc:creator>M. Kazan</dc:creator>
+    <dc:source>Journal of Physics and Chemistry of Solids</dc:source>
+    <dc:date>2024-4</dc:date>
+    <dc:identifier>DOI 10.1016/j.jpcs.2023.111861</dc:identifier>
+    <prism:volume>187</prism:volume>
+    <prism:pageRange>111861</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>To read: recent 4H-SiC infrared dielectric anisotropy and phonon-plasmon coupling.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#larruquert2011">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Self-consistent optical constants of SiC thin films</dc:title>
+    <dc:creator>Juan I. Larruquert</dc:creator>
+    <dc:creator>Antonio P. Pérez-Marín</dc:creator>
+    <dc:creator>Sergio García-Cortés</dc:creator>
+    <dc:creator>Luis Rodríguez-de Marcos</dc:creator>
+    <dc:creator>José A. Aznárez</dc:creator>
+    <dc:creator>José A. Méndez</dc:creator>
+    <dc:source>Journal of the Optical Society of America A</dc:source>
+    <dc:date>2011-10-26</dc:date>
+    <dc:identifier>DOI 10.1364/JOSAA.28.002340</dc:identifier>
+    <prism:volume>28</prism:volume>
+    <prism:number>11</prism:number>
+    <prism:pageRange>2340</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Optical constants background; material state differs from the contest sample.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#polyanskiy2024">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Refractiveindex.info database of optical constants</dc:title>
+    <dc:creator>Mikhail N. Polyanskiy</dc:creator>
+    <dc:source>Scientific Data</dc:source>
+    <dc:date>2024-1-18</dc:date>
+    <dc:identifier>DOI 10.1038/s41597-023-02898-2</dc:identifier>
+    <prism:volume>11</prism:volume>
+    <prism:number>1</prism:number>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Optical constants database citation.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#troparevsky2010">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Transfer-matrix formalism for the calculation of optical response in multilayer systems: from coherent to incoherent interference</dc:title>
+    <dc:creator>M. Claudia Troparevsky</dc:creator>
+    <dc:creator>Adrian S. Sabau</dc:creator>
+    <dc:creator>Andrew R. Lupini</dc:creator>
+    <dc:creator>Zhenyu Zhang</dc:creator>
+    <dc:source>Optics Express</dc:source>
+    <dc:date>2010-11-10</dc:date>
+    <dc:identifier>DOI 10.1364/OE.18.024715</dc:identifier>
+    <prism:volume>18</prism:volume>
+    <prism:number>24</prism:number>
+    <prism:pageRange>24715</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>To read: transfer matrix formalism for multilayer optical response.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#randall1967">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Refractive Indices of Germanium, Silicon, and Fused Quartz in the Far Infrared</dc:title>
+    <dc:creator>C. M. Randall</dc:creator>
+    <dc:creator>R. D. Rawcliffe</dc:creator>
+    <dc:source>Applied Optics</dc:source>
+    <dc:date>1967-11-1</dc:date>
+    <dc:identifier>DOI 10.1364/AO.6.001889</dc:identifier>
+    <prism:volume>6</prism:volume>
+    <prism:number>11</prism:number>
+    <prism:pageRange>1889</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Silicon far-infrared refractive index background.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#pitman2008">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Optical properties of silicon carbide for astrophysical applications</dc:title>
+    <dc:creator>K. M. Pitman</dc:creator>
+    <dc:creator>A. M. Hofmeister</dc:creator>
+    <dc:creator>A. B. Corman</dc:creator>
+    <dc:creator>A. K. Speck</dc:creator>
+    <dc:source>Astronomy &amp; Astrophysics</dc:source>
+    <dc:date>2008-3-11</dc:date>
+    <dc:identifier>DOI 10.1051/0004-6361:20078468</dc:identifier>
+    <prism:volume>483</prism:volume>
+    <prism:number>2</prism:number>
+    <prism:pageRange>661-672</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>SiC infrared optical properties and phonon-region background.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#macmillan1992">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Interference Fringes in the Infrared Reflectance of 6H-SiC Films on 6H-SiC Substrates</dc:title>
+    <dc:creator>M. F. MacMillan</dc:creator>
+    <dc:creator>W. J. Choyke</dc:creator>
+    <dc:creator>R. P. Devaty</dc:creator>
+    <dc:source>Springer Proceedings in Physics</dc:source>
+    <dc:date>1992</dc:date>
+    <dc:identifier>DOI 10.1007/978-3-642-84804-9_32</dc:identifier>
+    <prism:pageRange>216-220</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>SiC homoepilayer infrared interference background; 6H-SiC differs from 4H-SiC.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#fan2021">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Thin-film neural networks for optical inverse problem</dc:title>
+    <dc:creator>Lingjie Fan</dc:creator>
+    <dc:creator>Ang Chen</dc:creator>
+    <dc:creator>Tongyu Li</dc:creator>
+    <dc:creator>Jiao Chu</dc:creator>
+    <dc:creator>Yang Tang</dc:creator>
+    <dc:creator>Jiajun Wang</dc:creator>
+    <dc:creator>Maoxiong Zhao</dc:creator>
+    <dc:creator>Tangyao Shen</dc:creator>
+    <dc:creator>Minjia Zheng</dc:creator>
+    <dc:creator>Fang Guan</dc:creator>
+    <dc:creator>Haiwei Yin</dc:creator>
+    <dc:creator>Lei Shi</dc:creator>
+    <dc:creator>Jian Zi</dc:creator>
+    <dc:source>Light: Advanced Manufacturing</dc:source>
+    <dc:date>2021</dc:date>
+    <dc:identifier>DOI 10.37188/lam.2021.027</dc:identifier>
+    <prism:volume>2</prism:volume>
+    <prism:number>4</prism:number>
+    <prism:pageRange>1</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Machine-learning thin-film inverse problem direction; not in the main model yet.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#lininger2021">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>General Inverse Design of Layered Thin-Film Materials with Convolutional Neural Networks</dc:title>
+    <dc:creator>Andrew Lininger</dc:creator>
+    <dc:creator>Michael Hinczewski</dc:creator>
+    <dc:creator>Giuseppe Strangi</dc:creator>
+    <dc:source>ACS Photonics</dc:source>
+    <dc:date>2021-11-17</dc:date>
+    <dc:identifier>DOI 10.1021/acsphotonics.1c01498</dc:identifier>
+    <prism:volume>8</prism:volume>
+    <prism:number>12</prism:number>
+    <prism:pageRange>3641-3650</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>CNN inverse design and simulation-trained inverse modeling; future direction.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#tian2020">
+    <z:itemType>conferencePaper</z:itemType>
+    <dc:title>Rapid and Accurate Thin Film Thickness Extraction via UV-Vis and Machine Learning</dc:title>
+    <dc:creator>Siyu Isaac Parker Tian</dc:creator>
+    <dc:creator>Zhe Liu</dc:creator>
+    <dc:creator>Vijila Chellappan</dc:creator>
+    <dc:creator>Yee-Fun Lim</dc:creator>
+    <dc:creator>Zekun Ren</dc:creator>
+    <dc:creator>Felipe Oviedo</dc:creator>
+    <dc:creator>B. Heng Teo</dc:creator>
+    <dc:creator>Janak Thapa</dc:creator>
+    <dc:creator>Rajdeep Dutta</dc:creator>
+    <dc:creator>Benjamin P MacLeod</dc:creator>
+    <dc:creator>Fraser G. L. Parlane</dc:creator>
+    <dc:creator>J. Senthilnath</dc:creator>
+    <dc:creator>Curtis P. Berlinguette</dc:creator>
+    <dc:creator>Tonio Buonassisi</dc:creator>
+    <dc:source>2020 47th IEEE Photovoltaic Specialists Conference (PVSC)</dc:source>
+    <dc:date>2020-6-14</dc:date>
+    <dc:identifier>DOI 10.1109/PVSC45281.2020.9300634</dc:identifier>
+    <prism:pageRange>0128-0132</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Machine-learning thickness prediction background; direct training is not suitable for this small dataset.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#tian2022">
+    <z:itemType>preprint</z:itemType>
+    <dc:title>Tackling Data Scarcity with Transfer Learning: A Case Study of Thickness Characterization from Optical Spectra of Perovskite Thin Films</dc:title>
+    <dc:creator>Siyu Isaac Parker Tian</dc:creator>
+    <dc:creator>Zekun Ren</dc:creator>
+    <dc:creator>Selvaraj Venkataraj</dc:creator>
+    <dc:creator>Yuanhang Cheng</dc:creator>
+    <dc:creator>Daniil Bash</dc:creator>
+    <dc:creator>Felipe Oviedo</dc:creator>
+    <dc:creator>J. Senthilnath</dc:creator>
+    <dc:creator>Vijila Chellappan</dc:creator>
+    <dc:creator>Yee-Fun Lim</dc:creator>
+    <dc:creator>Armin G. Aberle</dc:creator>
+    <dc:creator>Benjamin P MacLeod</dc:creator>
+    <dc:creator>Fraser G. L. Parlane</dc:creator>
+    <dc:creator>Curtis P. Berlinguette</dc:creator>
+    <dc:creator>Qianxiao Li</dc:creator>
+    <dc:creator>Tonio Buonassisi</dc:creator>
+    <dc:creator>Zhe Liu</dc:creator>
+    <dc:date>2022</dc:date>
+    <dc:identifier>DOI 10.48550/arXiv.2207.02209</dc:identifier>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Transfer learning under data scarcity; future direction.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#marquez2021">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Optical Characterization of H-Free a-Si Layers Grown by rf-Magnetron Sputtering by Inverse Synthesis Using Matlab: Tauc–Lorentz–Urbach Parameterization</dc:title>
+    <dc:creator>Emilio Márquez</dc:creator>
+    <dc:creator>Juan J. Ruíz-Pérez</dc:creator>
+    <dc:creator>Manuel Ballester</dc:creator>
+    <dc:creator>Almudena P. Márquez</dc:creator>
+    <dc:creator>Eduardo Blanco</dc:creator>
+    <dc:creator>Dorian Minkov</dc:creator>
+    <dc:creator>Susana M. Fernández Ruano</dc:creator>
+    <dc:creator>Elias Saugar</dc:creator>
+    <dc:source>Coatings</dc:source>
+    <dc:date>2021-10-29</dc:date>
+    <dc:identifier>DOI 10.3390/coatings11111324</dc:identifier>
+    <prism:volume>11</prism:volume>
+    <prism:number>11</prism:number>
+    <prism:pageRange>1324</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Optical-constant parameterization background; different material system.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#minkov2021">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Further Increasing the Accuracy of Characterization of a Thin Dielectric or Semiconductor Film on a Substrate from Its Interference Transmittance Spectrum</dc:title>
+    <dc:creator>Dorian Minkov</dc:creator>
+    <dc:creator>Emilio Marquez</dc:creator>
+    <dc:creator>George Angelov</dc:creator>
+    <dc:creator>Gavril Gavrilov</dc:creator>
+    <dc:creator>Susana Ruano</dc:creator>
+    <dc:creator>Elias Saugar</dc:creator>
+    <dc:source>Materials</dc:source>
+    <dc:date>2021-8-19</dc:date>
+    <dc:identifier>DOI 10.3390/ma14164681</dc:identifier>
+    <prism:volume>14</prism:volume>
+    <prism:number>16</prism:number>
+    <prism:pageRange>4681</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Interference-spectrum band selection and accuracy background; method details to verify.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#jena2021">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Transfer matrix based reverse engineering approach to analyse annealing induced changes in optical transmission of TiO2/Ag/TiO2/Ag multilayer</dc:title>
+    <dc:creator>S. Jena</dc:creator>
+    <dc:creator>R.B. Tokas</dc:creator>
+    <dc:creator>J.S. Misal</dc:creator>
+    <dc:creator>R. De</dc:creator>
+    <dc:creator>K.D. Rao</dc:creator>
+    <dc:creator>S. Thakur</dc:creator>
+    <dc:creator>D.V. Udupa</dc:creator>
+    <dc:source>Optics &amp; Laser Technology</dc:source>
+    <dc:date>2021-12</dc:date>
+    <dc:identifier>DOI 10.1016/j.optlastec.2021.107392</dc:identifier>
+    <prism:volume>144</prism:volume>
+    <prism:pageRange>107392</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>TMM reverse-engineering background; different material system.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#jan2021">
+    <z:itemType>journalArticle</z:itemType>
+    <dc:title>Optical interference system for simultaneously measuring refractive index and thickness of slim transparent plate</dc:title>
+    <dc:creator>Chia-Ming Jan</dc:creator>
+    <dc:creator>Chien-Sheng Liu</dc:creator>
+    <dc:creator>Chun-Lin Chen</dc:creator>
+    <dc:creator>Yu-Ta Chen</dc:creator>
+    <dc:source>Optics and Lasers in Engineering</dc:source>
+    <dc:date>2021-10</dc:date>
+    <dc:identifier>DOI 10.1016/j.optlaseng.2021.106668</dc:identifier>
+    <prism:volume>145</prism:volume>
+    <prism:pageRange>106668</prism:pageRange>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Simultaneous refractive-index and thickness estimation background; to verify.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#cumcm2025_showcase">
+    <z:itemType>webpage</z:itemType>
+    <dc:title>2025 NCMCM paper showcase entry</dc:title>
+    <dc:creator>China College Student Online</dc:creator>
+    <dc:date>2025</dc:date>
+    <dc:identifier><rdf:Description><rdf:type rdf:resource="http://purl.org/dc/terms/URI"/><rdf:value>https://dxs.moe.gov.cn/zx/hd/sxjm/sxjmlw/2025qgdxssxjmjslwzs/</rdf:value></rdf:Description></dc:identifier>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Official showcase entry; does not directly support formulas.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#cumcm2025_b060">
+    <z:itemType>webpage</z:itemType>
+    <dc:title>B060 Modeling analysis of measuring epitaxial-layer thickness by infrared interference</dc:title>
+    <dc:creator>China College Student Online</dc:creator>
+    <dc:date>2025</dc:date>
+    <dc:identifier><rdf:Description><rdf:type rdf:resource="http://purl.org/dc/terms/URI"/><rdf:value>https://dxs.moe.gov.cn/zx/a/hd_sxjm_sxjmlw_2025qgdxssxjmjslwzs_2025btlw/251101/2022733.shtml</rdf:value></rdf:Description></dc:identifier>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Contest paper structure reference; page content still requires verification.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#cumcm2025_b157">
+    <z:itemType>webpage</z:itemType>
+    <dc:title>B157 Measurement study of silicon carbide epitaxial-layer thickness by two-beam and multiple-beam interference</dc:title>
+    <dc:creator>China College Student Online</dc:creator>
+    <dc:date>2025</dc:date>
+    <dc:identifier><rdf:Description><rdf:type rdf:resource="http://purl.org/dc/terms/URI"/><rdf:value>https://dxs.moe.gov.cn/zx/a/hd_sxjm_sxjmlw_2025qgdxssxjmjslwzs_2025btlw/251107/2023197.shtml</rdf:value></rdf:Description></dc:identifier>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Reference for FFT, Cauchy, Airy and multiple-beam interference; formulas require verification.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#cumcm2025_commentary">
+    <z:itemType>webpage</z:itemType>
+    <dc:title>Official commentary on 2025 Problem B: Determination of SiC epitaxial-layer thickness</dc:title>
+    <dc:creator>China College Student Online</dc:creator>
+    <dc:date>2025</dc:date>
+    <dc:identifier><rdf:Description><rdf:type rdf:resource="http://purl.org/dc/terms/URI"/><rdf:value>https://dxs.moe.gov.cn/zx/a/hd_sxjm_sxjmstjp_2025sxjmstjp/251125/2024993.shtml</rdf:value></rdf:Description></dc:identifier>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Official problem analysis and error discussion; no long quotations.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#tsinghua2026_share">
+    <z:itemType>webpage</z:itemType>
+    <dc:title>Tsinghua University sharing session on 2025 NCMCM Problem B</dc:title>
+    <dc:creator>China College Student Online</dc:creator>
+    <dc:date>2026-04-01</dc:date>
+    <dc:identifier><rdf:Description><rdf:type rdf:resource="http://purl.org/dc/terms/URI"/><rdf:value>https://dxs.moe.gov.cn/zx/a/hd_sxjm_smtd/260401/2032936.shtml</rdf:value></rdf:Description></dc:identifier>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Recent official-site learning lead; video/page content needs transcription or manual verification.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="#byrnes_tmm">
+    <z:itemType>computerProgram</z:itemType>
+    <dc:title>tmm: transfer matrix method Python package</dc:title>
+    <dc:creator>Steven J. Byrnes</dc:creator>
+    <dc:identifier><rdf:Description><rdf:type rdf:resource="http://purl.org/dc/terms/URI"/><rdf:value>https://github.com/sbyrnes321/tmm</rdf:value></rdf:Description></dc:identifier>
+    <dc:subject>SiC epilayer thickness study</dc:subject>
+    <dc:description>Code implementation reference; software source, not evidence for this project result.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

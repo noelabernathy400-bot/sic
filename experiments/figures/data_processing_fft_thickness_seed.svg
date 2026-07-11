@@ -1,0 +1,57 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="560" viewBox="0 0 1080 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="540.0" y="30" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="20">不同预处理下的常数折射率 FFT 厚度初值</text>
+<line x1="82" y1="440" x2="1046" y2="440" stroke="#333"/>
+<line x1="82" y1="58" x2="82" y2="440" stroke="#333"/>
+<text x="20" y="280.0" transform="rotate(-90 20,280.0)" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="13">厚度初值 (μm)，常数 n=2.60</text>
+<circle cx="96.0" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 去均值: 7.7095 μm</title></circle>
+<circle cx="151.1" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 移动平均去趋势 201: 7.7095 μm</title></circle>
+<circle cx="206.1" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 移动平均去趋势 401: 7.7095 μm</title></circle>
+<circle cx="261.2" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 移动平均去趋势 801: 7.7095 μm</title></circle>
+<circle cx="316.2" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 二次多项式去趋势: 7.7095 μm</title></circle>
+<circle cx="371.3" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 三次多项式去趋势: 7.7095 μm</title></circle>
+<circle cx="426.4" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 滚动中位数基线: 7.7095 μm</title></circle>
+<circle cx="481.4" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 滚动20%分位基线: 7.7095 μm</title></circle>
+<circle cx="536.5" cy="251.5" r="5" fill="#4c78a8"><title>SiC 10度 一阶差分: 7.7095 μm</title></circle>
+<circle cx="591.5" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 去均值: 7.7307 μm</title></circle>
+<circle cx="646.6" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 移动平均去趋势 201: 7.7307 μm</title></circle>
+<circle cx="701.6" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 移动平均去趋势 401: 7.7307 μm</title></circle>
+<circle cx="756.7" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 移动平均去趋势 801: 7.7307 μm</title></circle>
+<circle cx="811.8" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 二次多项式去趋势: 7.7307 μm</title></circle>
+<circle cx="866.8" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 三次多项式去趋势: 7.7307 μm</title></circle>
+<circle cx="921.9" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 滚动中位数基线: 7.7307 μm</title></circle>
+<circle cx="976.9" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 滚动20%分位基线: 7.7307 μm</title></circle>
+<circle cx="1032.0" cy="246.5" r="5" fill="#f58518"><title>SiC 15度 一阶差分: 7.7307 μm</title></circle>
+<line x1="78" y1="440.0" x2="82" y2="440.0" stroke="#333"/>
+<text x="74" y="444.0" text-anchor="end" font-family="Arial" font-size="11">6.91</text>
+<line x1="78" y1="363.6" x2="82" y2="363.6" stroke="#333"/>
+<text x="74" y="367.6" text-anchor="end" font-family="Arial" font-size="11">7.23</text>
+<line x1="78" y1="287.2" x2="82" y2="287.2" stroke="#333"/>
+<text x="74" y="291.2" text-anchor="end" font-family="Arial" font-size="11">7.56</text>
+<line x1="78" y1="210.8" x2="82" y2="210.8" stroke="#333"/>
+<text x="74" y="214.8" text-anchor="end" font-family="Arial" font-size="11">7.88</text>
+<line x1="78" y1="134.4" x2="82" y2="134.4" stroke="#333"/>
+<text x="74" y="138.4" text-anchor="end" font-family="Arial" font-size="11">8.21</text>
+<line x1="78" y1="58.0" x2="82" y2="58.0" stroke="#333"/>
+<text x="74" y="62.0" text-anchor="end" font-family="Arial" font-size="11">8.53</text>
+<text x="96.0" y="458" transform="rotate(38 96.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">去均值</text>
+<text x="584.0" y="458" transform="rotate(38 584.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">去均值</text>
+<text x="152.0" y="458" transform="rotate(38 152.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">移动平均去趋势 201</text>
+<text x="640.0" y="458" transform="rotate(38 640.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">移动平均去趋势 201</text>
+<text x="208.0" y="458" transform="rotate(38 208.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">移动平均去趋势 401</text>
+<text x="696.0" y="458" transform="rotate(38 696.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">移动平均去趋势 401</text>
+<text x="264.0" y="458" transform="rotate(38 264.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">移动平均去趋势 801</text>
+<text x="752.0" y="458" transform="rotate(38 752.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">移动平均去趋势 801</text>
+<text x="320.0" y="458" transform="rotate(38 320.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">二次多项式去趋势</text>
+<text x="808.0" y="458" transform="rotate(38 808.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">二次多项式去趋势</text>
+<text x="376.0" y="458" transform="rotate(38 376.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">三次多项式去趋势</text>
+<text x="864.0" y="458" transform="rotate(38 864.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">三次多项式去趋势</text>
+<text x="432.0" y="458" transform="rotate(38 432.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">滚动中位数基线</text>
+<text x="920.0" y="458" transform="rotate(38 920.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">滚动中位数基线</text>
+<text x="488.0" y="458" transform="rotate(38 488.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">滚动20%分位基线</text>
+<text x="976.0" y="458" transform="rotate(38 976.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">滚动20%分位基线</text>
+<text x="544.0" y="458" transform="rotate(38 544.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">一阶差分</text>
+<text x="1032.0" y="458" transform="rotate(38 1032.0,458)" font-family="Arial, Microsoft YaHei" font-size="10">一阶差分</text>
+<circle cx="830" cy="48" r="5" fill="#4c78a8"/><text x="842" y="52" font-family="Arial, Microsoft YaHei" font-size="12">SiC 10度</text>
+<circle cx="930" cy="48" r="5" fill="#f58518"/><text x="942" y="52" font-family="Arial, Microsoft YaHei" font-size="12">SiC 15度</text>
+</svg>
