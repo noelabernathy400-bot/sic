@@ -2,6 +2,13 @@
 
 基于傅里叶变换红外光谱(FTIR)的 SiC 外延层厚度反演。
 
+## 论文
+
+- [English PDF](papers/SiC_FTIR_EN.pdf)
+- [中文 PDF](papers/SiC_FTIR_CN.pdf)
+
+以上 PDF 为本项目对应论文的仓库内副本，便于与代码、实验输出和方法说明一同查看。
+
 ## 问题
 
 通过 SiC 衬底上外延层的 FTIR 反射光谱，反演外延层厚度。核心挑战：色散效应、多光束干涉、多角度数据融合。
@@ -25,7 +32,7 @@
 ├── src/             ← 核心代码 (27 .py)
 ├── experiments/     ← 实验输出 (CSV + 报告)
 ├── docs/            ← 研究笔记/文献/方法
-├── papers/          ← 最终论文 PDF
+├── papers/          ← 本项目中英文论文 PDF
 ├── data/            ← 原始附件数据
 └── deliverables/    ← LaTeX 论文源码+PDF
 ```
